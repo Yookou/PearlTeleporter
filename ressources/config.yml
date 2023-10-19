@@ -1,0 +1,11 @@
+#Item
+lore: "Click right to PrePearl !"
+max-stack-size: 16
+cooldown: 250 # In seconds
+cooldown-message: "§cYou can't PrePearl for {cooldown} seconds!"
+
+##Task
+teleport-time: 15 # In seconds
+prepearl-message: "§aYou have PrePearl you will be teleported in 15 seconds!"
+teleported-message: "§aYou have been teleported!"
+
