@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Yakuuuuuuuuuuuuuuu/PrePearl
+build-by-default: true
+branches:
+- main
+projects:
+  PrePearl:
+    path: ""
+...
