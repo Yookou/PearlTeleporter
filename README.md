@@ -1,5 +1,4 @@
 # PearlTeleporter
-![icon](https://github.com/Yakuuuuuuuuuuuuuuu/PearlTeleporter/assets/119411560/b14c0a8e-f4c2-4536-bfae-55c7adbd787a)
 
 
 Right click on and you will be teleported to the same position in time of your choice
