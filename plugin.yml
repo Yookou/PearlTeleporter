@@ -1,5 +1,7 @@
 name: PearlTeleporter
-main: yaku\Main
-version: 1.0.0
-author: Yaku
-api: 5.0.0
+main: Yookou\PearlTeleporter\Main
+version: 0.0.2
+author: Yookou
+api: [5.0.0]
+depend:
+  - Customies
