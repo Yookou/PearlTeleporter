@@ -7,7 +7,7 @@ If you have any problems please create an issue I will try to answer them as soo
 
 Finally, if you are looking for private plugins at a good price, I can make some on my discord: yakuuuuuuuuuuuuuuu_
 
-##Depend :
+## Depend :
 Customies : You will need to have the customies plugin to use this plugin. 
 Link : https://poggit.pmmp.io/ci/CustomiesDevs/Customies/Customies
 
